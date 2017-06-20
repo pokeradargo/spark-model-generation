@@ -1,1 +1,7 @@
-.idea
+.idea/
+spark-warehouse/
+api_pokemon_go_spark_model_generation.egg-info
+build/
+derby.log
+dist/
+metastore_db/
